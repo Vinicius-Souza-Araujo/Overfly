@@ -1,6 +1,6 @@
 # Overfly-Mobile✈️
 
-O projeto Overfly foi desenvolvido como atividade do curso de React Native da plataforma Alura, tento como tema simular um aplicativo de venda de verduras.
+O projeto Overfly foi desenvolvido como atividade da instituição Senai Suíço-Brasileira Paulo Ernesto Tolle, tento como objetivo realizar a criação de um front-end de um app de viagem.
 
 ## O que preciso instalar para rodar o programa?🤔
 NodeJS e Expo.
